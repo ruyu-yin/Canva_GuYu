@@ -1,0 +1,65 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "test_rbiui",
+      "children" : [ {
+        "name" : "test_opendashboard",
+        "uid" : "d2dde682bd9f912b",
+        "parentUid" : "b2b62d3509bb3ea59fd9265303643723",
+        "status" : "broken",
+        "time" : {
+          "start" : 1687226742436,
+          "stop" : 1687226742436,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_ui_linksubscripton",
+        "uid" : "4bcaf3c3d10bd7ce",
+        "parentUid" : "b2b62d3509bb3ea59fd9265303643723",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687226743472,
+          "stop" : 1687226743472,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_ui_unlinksubscripton",
+        "uid" : "4248734d6e54c1ed",
+        "parentUid" : "b2b62d3509bb3ea59fd9265303643723",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687226743474,
+          "stop" : 1687226743475,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_ui_addusers",
+        "uid" : "9422af694299bbcb",
+        "parentUid" : "b2b62d3509bb3ea59fd9265303643723",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687226743479,
+          "stop" : 1687226743479,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b2b62d3509bb3ea59fd9265303643723"
+    } ],
+    "uid" : "b51346658ccdb9db01a6b5f6c12deab1"
+  } ]
+}

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "4248734d6e54c1ed",
+  "name" : "test_ui_unlinksubscripton",
+  "time" : {
+    "start" : 1687226743474,
+    "stop" : 1687226743475,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2dde682bd9f912b",
+  "name" : "test_opendashboard",
+  "time" : {
+    "start" : 1687226742436,
+    "stop" : 1687226742436,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4bcaf3c3d10bd7ce",
+  "name" : "test_ui_linksubscripton",
+  "time" : {
+    "start" : 1687226743472,
+    "stop" : 1687226743472,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9422af694299bbcb",
+  "name" : "test_ui_addusers",
+  "time" : {
+    "start" : 1687226743479,
+    "stop" : 1687226743479,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

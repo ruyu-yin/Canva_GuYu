@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 20 10:05:43 CST 2023","Tue Jun 20 10:05:43 CST 2023","1","testcases","test_rbiui","","","","test_ui_unlinksubscripton",""
+"broken","Tue Jun 20 10:05:42 CST 2023","Tue Jun 20 10:05:42 CST 2023","0","testcases","test_rbiui","","","","test_opendashboard",""
+"passed","Tue Jun 20 10:05:43 CST 2023","Tue Jun 20 10:05:43 CST 2023","0","testcases","test_rbiui","","","","test_ui_addusers",""
+"passed","Tue Jun 20 10:05:43 CST 2023","Tue Jun 20 10:05:43 CST 2023","0","testcases","test_rbiui","","","","test_ui_linksubscripton",""

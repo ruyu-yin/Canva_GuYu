@@ -1,0 +1,79 @@
+{
+  "a96582144fb41c5e0fea24fadc75a2c5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9422af694299bbcb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687226743479,
+        "stop" : 1687226743479,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f1b15648b0cec5b52a34da225669c309" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4bcaf3c3d10bd7ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687226743472,
+        "stop" : 1687226743472,
+        "duration" : 0
+      }
+    } ]
+  },
+  "63a0fe82fbce3314ce5f275257cf6c27" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2dde682bd9f912b",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.InvalidArgumentException: Message: invalid argument\n  (Session info: chrome=114.0.5735.134)\nStacktrace:\nBacktrace:\n\tGetHandleVerifier [0x00D5A813+48355]\n\t(No symbol) [0x00CEC4B1]\n\t(No symbol) [0x00BF5220]\n\t(No symbol) [0x00BE88E2]\n\t(No symbol) [0x00BE7138]\n\t(No symbol) [0x00BE7688]\n\t(No symbol) [0x00BF6B52]\n\t(No symbol) [0x00C4CF01]\n\t(No symbol) [0x00C3A73C]\n\t(No symbol) [0x00C4C922]\n\t(No symbol) [0x00C3A536]\n\t(No symbol) [0x00C182DC]\n\t(No symbol) [0x00C193DD]\n\tGetHandleVerifier [0x00FBAABD+2539405]\n\tGetHandleVerifier [0x00FFA78F+2800735]\n\tGetHandleVerifier [0x00FF456C+2775612]\n\tGetHandleVerifier [0x00DE51E0+616112]\n\t(No symbol) [0x00CF5F8C]\n\t(No symbol) [0x00CF2328]\n\t(No symbol) [0x00CF240B]\n\t(No symbol) [0x00CE4FF7]\n\tBaseThreadInitThunk [0x757F8484+36]\n\tRtlValidSecurityDescriptor [0x77C32FEA+282]\n\tRtlValidSecurityDescriptor [0x77C32FBA+234]",
+      "time" : {
+        "start" : 1687226742436,
+        "stop" : 1687226742436,
+        "duration" : 0
+      }
+    } ]
+  },
+  "28584df8ff13ad4a54b1d079bc33c4d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4248734d6e54c1ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687226743474,
+        "stop" : 1687226743475,
+        "duration" : 1
+      }
+    } ]
+  }
+}

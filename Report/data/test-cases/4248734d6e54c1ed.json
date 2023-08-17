@@ -1,0 +1,53 @@
+{
+  "uid" : "4248734d6e54c1ed",
+  "name" : "test_ui_unlinksubscripton",
+  "fullName" : "testcases.test_rbiui#test_ui_unlinksubscripton",
+  "historyId" : "28584df8ff13ad4a54b1d079bc33c4d9",
+  "time" : {
+    "start" : 1687226743474,
+    "stop" : 1687226743475,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_rbiui"
+  }, {
+    "name" : "host",
+    "value" : "NA0118001565"
+  }, {
+    "name" : "thread",
+    "value" : "20680-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_rbiui"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4248734d6e54c1ed.json",
+  "parameterValues" : [ ]
+}
